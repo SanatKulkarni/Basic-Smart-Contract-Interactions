@@ -1,4 +1,4 @@
-const contractAddress = "0x95292976De5C1574e486A1ab8D75a1c1322c38fC";
+const contractAddress = "ENTER_YOUR_CONTRACT_ADDRESS";
 const contractAbi = "./sampleAbi.json";
 
 let infoSpace;
