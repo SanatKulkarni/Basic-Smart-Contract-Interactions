@@ -1,5 +1,5 @@
 
-const contractAddress = '0xdD81f25C0637244f562d3e2AF02EC1Fff69B506A';
+const contractAddress = 'ENTER_YOUR_CONTRACT_ADDRESS';
 
 const abi = [
 	{
