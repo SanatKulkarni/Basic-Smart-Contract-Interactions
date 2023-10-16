@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         return;
     }
 
-    const contractAddress = "0x9833033329175f43A9D066b80C84E3323E36fBa7"; 
+    const contractAddress = "ENTER_YOUR_CONTRACT_ADDRESS"; 
     const contractAbi = [
         {
             "inputs": [
