@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return;
     }
 
-    const contractAddress = '0xCC272B2C4a5Bb080CE7ab6e7F945d06F45300461';
+    const contractAddress = 'ENTER_YOUR_CONTRACT_ADDRRESS';
     const contractABI = [
         {
             "inputs": [],
